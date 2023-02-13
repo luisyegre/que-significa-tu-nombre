@@ -1,3 +1,3 @@
-from API import *
-from pages import *
-from parsers import *
+from .MYAPI import *
+from .pages import *
+from .parsers import *

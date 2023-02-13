@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from resource.API import name_value
+from resource.MYAPI import name_value
 from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()
